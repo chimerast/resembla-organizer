@@ -1,0 +1,21 @@
+{
+  "name": "resembla-organizer",
+  "version": "0.1.0",
+  "description": "Organize Resembla.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chimerast/resembla-organizer.git"
+  },
+  "author": "Hideyuki TAKEUCHI <chimerast@gmail.com>",
+  "license": "Apache-2.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/chimerast/resembla-organizer/issues"
+  },
+  "homepage": "https://github.com/chimerast/resembla-organizer#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
