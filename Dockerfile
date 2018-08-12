@@ -19,3 +19,5 @@ COPY package.json .
 RUN npm install
 
 COPY index.js config.json ./
+
+EXPOSE 3000 50051
